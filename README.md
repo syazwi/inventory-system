@@ -1,4 +1,4 @@
-**Inventory Management System**
+<h1>Inventory Management System</h1>
 ![1](https://github.com/syazwi/inventory-system/assets/25580050/9221e92a-dad6-4cb2-aeff-d16fc89efadf)
 ![2](https://github.com/syazwi/inventory-system/assets/25580050/065d5aaa-a2d6-43cd-815c-79feef4a0aee)
 ![3](https://github.com/syazwi/inventory-system/assets/25580050/1d78c2a9-46f5-425b-be77-a8acf4dc375d)
@@ -13,14 +13,14 @@
 •	Inventory Status: Monitor the current status of your inventory, including the total number of products, low-stock alerts, and more.
 
 
-#Features
+<h1>Features</h1>
 •	User-Friendly Interface: The system is designed with a clean and intuitive user interface, making it easy to navigate and manage products and categories.
 •	CRUD Operations: Perform Create, Read, Update, and Delete operations for both products and categories.
 •	Responsive Design: The application is built with Bootstrap, ensuring a responsive and mobile-friendly experience for users.
 •	Database Integration: Utilizes a MySQL database to store and retrieve product and category data, providing data persistence.
 
 
-#Getting Started
+<h1>Getting Started</h1>
 To set up this Inventory Management System on your local environment, follow these steps:
 1.	Database Setup: Create a MySQL database using the provided SQL script in the database folder.
 2.	Upload Files: Upload all the project files to your web server or localhost.
@@ -28,7 +28,7 @@ To set up this Inventory Management System on your local environment, follow the
 4.	Log In: Use the default admin credentials (username: admin, password: admin) to log in. It is recommended to change these credentials once logged in.
 
    
-#Usage
+<h1>Usage</h1>
 •	Product Management:
 o	Click on the "Products" tab to access the product management page.
 o	Use the "Add Product" button to add new products.
@@ -42,7 +42,7 @@ Contribution
 Contributions to this project are welcome! If you have ideas for improvements or find any issues, please create a pull request or submit an issue.
 
 
-#License
+<h1>License</h1>
 This project is licensed under the MIT License.
 
 
