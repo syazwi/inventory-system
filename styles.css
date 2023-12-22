@@ -1,0 +1,111 @@
+/* styles.css */
+@font-face {
+  font-family: 'Heebo';
+  src: url('fonts/heebo.woff2') format('woff2'),
+       url('fonts/heebo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Heebo', sans-serif;
+  background-color: #ececec;
+}
+
+p#imm {
+    background-color: #dc0b80;
+    color: white;
+    border-radius: 0px;
+    padding: 5px;
+    width: 250px;
+    text-align: center;
+    font-weight: ;
+}
+
+a.btn.btn-danger.btn-sm {
+    background-color:#dc0b80;
+    border: 0px;
+}
+
+
+
+
+
+.navbar {
+  background-color: #dc0b80;
+  color: #ffffff;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+.card {
+  border: 1px solid #03aab5;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.card-img-top {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.card-text {
+  color: #03aab5;
+}
+
+.btn-primary {
+  background-color: #03aab5;
+  border-color: #03aab5;
+}
+
+.btn-primary:hover {
+  background-color: #01657c;
+  border-color: #01657c;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+/* styles.css */
+
+/* Apply modern styling to the "Logout" link */
+.navbar .nav-link {
+  color: #ffffff;
+  font-weight: bolder;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  background-color: #07a4b8;
+  transition: background-color 0.3s ease;
+}
+
+/* Apply hover effect to the "Logout" link */
+.navbar .nav-link:hover {
+  background-color: #dc0b80;
+}
+
