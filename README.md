@@ -6,7 +6,7 @@
 ![5](https://github.com/syazwi/inventory-system/assets/25580050/4ad77f4c-2840-4362-9432-3e8badf0b42f)
 ![6](https://github.com/syazwi/inventory-system/assets/25580050/786169b0-0b4c-41d6-aea9-cf2366f102c9)
 
-#Overview
+<h1>Overview</h1>
 **This Inventory Management System is a web application developed using PHP, Bootstrap for design, and a MySQL database. It allows you to efficiently manage your product inventory by providing the following features:**
 •	Product Management: Add, update, view, and delete product information, including name, description, price, and quantity.
 •	Category Management: Organize products into categories for better organization and easy navigation.
