@@ -89,13 +89,6 @@ CREATE TABLE `login` (
   `last_login` datetime DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Dumping data for table `login`
---
-
-INSERT INTO `login` (`user_id`, `username`, `password`, `email`, `last_login`) VALUES
-(1, 'syazwi', 'syazwi', 'syazwi', NULL);
-
 -- --------------------------------------------------------
 
 --
